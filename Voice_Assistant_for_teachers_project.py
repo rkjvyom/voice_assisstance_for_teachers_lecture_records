@@ -1,4 +1,3 @@
-
 #Project Domain: Voice Assistant
 #Learner/Creater Name: Vyomesh Javle
 
@@ -110,8 +109,3 @@ while listening == True:
     #Every time listen is activated, speech would be stored in variable 'data'
     data = listen()
     listening = voice_assistant(data)
-    
-   
-
-    
-    
